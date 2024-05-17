@@ -82,10 +82,10 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Yu Gothic UI", 20.25F, FontStyle.Regular, GraphicsUnit.Point);
+            label1.Font = new Font("Yu Gothic UI", 20.25F, FontStyle.Bold, GraphicsUnit.Point);
             label1.Location = new Point(146, 157);
             label1.Name = "label1";
-            label1.Size = new Size(214, 37);
+            label1.Size = new Size(225, 37);
             label1.TabIndex = 4;
             label1.Text = "꒰𑁬⎛ಲළ൭⎞໒꒱";
             // 
