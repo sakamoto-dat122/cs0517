@@ -44,7 +44,7 @@ namespace cs0517
             MessageBox.Show((1.23f * 2.34f).ToString());
             MessageBox.Show($"{1.23f * 2.34f}");
 
-            MessageBox.Show("1" + "1");
+            MessageBox.Show("1" + "1");//11
         }
     }
 }
