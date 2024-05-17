@@ -88,6 +88,7 @@
             label1.Size = new Size(225, 37);
             label1.TabIndex = 4;
             label1.Text = "꒰𑁬⎛ಲළ൭⎞໒꒱";
+            label1.Click += label1_Click;
             // 
             // Form1
             // 
